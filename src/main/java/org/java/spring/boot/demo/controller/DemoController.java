@@ -12,4 +12,7 @@ public class DemoController {
         public String sayHi(){
             return  "Hellor Spring Boot";
         }
+        public String aa(){
+            return  "";
+        }
 }
