@@ -1,0 +1,7 @@
+server:
+  port: 9090
+
+  #日志
+logging:
+  file: ../logs/spring-boot-hello.log
+  level.org.springframework.web: DEBUG
